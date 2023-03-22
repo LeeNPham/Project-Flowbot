@@ -1,0 +1,24 @@
+{
+  "name": "project-flowbot",
+  "version": "1.0.0",
+  "description": "* Create an account at https://platform.openai.com/overview * Instantiate a .env file to store your API key *",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeNPham/Project-Flowbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeNPham/Project-Flowbot/issues"
+  },
+  "homepage": "https://github.com/LeeNPham/Project-Flowbot#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
