@@ -1,10 +1,11 @@
 {
   "name": "project-flowbot",
   "version": "1.0.0",
-  "description": "* Create an account at https://platform.openai.com/overview * Instantiate a .env file to store your API key *",
+  "description": "AI Chat bot",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node script.js"
   },
   "repository": {
     "type": "git",
