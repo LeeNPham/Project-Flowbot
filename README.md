@@ -8,3 +8,6 @@
   * ```npm i```
 * Enter command into terminal to start using the AI Chat in your command line:
   * ```npm run dev```
+  *
+  * just try and follow this instructions
+  * https://www.youtube.com/watch?v=Uw5GZg96kD8
